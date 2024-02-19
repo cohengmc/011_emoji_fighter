@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: "Press Start 2P", system-ui;
+    background: linear-gradient(lightgrey, yellow);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+h1 {
+    margin-bottom: 3em;
+}
+
+button {
+    margin-top: 6em;
+    font-family: inherit;
+    padding: 1em 3em;
+    border-radius: 8px;
+}
+
+#fighters {
+    font-size: 500%;
+}
